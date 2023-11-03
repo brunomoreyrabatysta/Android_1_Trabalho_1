@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android 1 - Trabalho 1</string>
+
+    <string name="PARAM_NOME">CHAVE_NOME</string>
+    <string name="PARAM_PESO">CHAVE_PESO</string>
+    <string name="PARAM_ALTURA">CHAVE_ALTURA</string>
+</resources>
